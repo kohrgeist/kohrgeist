@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/marcos-hop/"><img src="https://img.shields.io/badge/LinkedIn-marcos--hop-ff2b3d?style=flat-square&labelColor=0b0607&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/marcos-henrique-oliveira-pereira/"><img src="https://img.shields.io/badge/LinkedIn-Marcos_Pereira-ff2b3d?style=flat-square&labelColor=0b0607&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/PT--BR_·_EN_·_DE_(learning)-ff2b3d?style=flat-square&labelColor=0b0607" alt="Languages" />
 
 </div>
